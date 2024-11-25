@@ -1,4 +1,6 @@
 # DeWm
+/djuːm/ DeWaterMark.  
+
 受够了满图的水印？来，看这里。  
 使用AI（StableDiffusion）自动去除插画图片上的水印。  
 
