@@ -24,7 +24,7 @@ That's it!
 5. I recommend using Euler a sampler with 20 steps.  
 6. Keep the CFG scale low. If you can get by with 2, don’t use 3. The goal is to avoid breaking the image. Otherwise, the style may look overly "AI-generated." Ignore this if you prefer the AI aesthetic.  
 7. Set denoising strength to 0.2, with a maximum of 0.25. Going higher will likely break the image because this process uses a fine mask.  
-8. In extreme cases, first perform a "reverse AI" operation using [DeTox](https://github.com/huzpsb/DeTox).  
+8. In extreme cases, first perform a "Anti-Anti-AI" operation using [DeTox](https://github.com/huzpsb/DeTox).  
 
 ### Additional Uses:  
 The inpainting process can also remove residual edges left by the watermark.  
