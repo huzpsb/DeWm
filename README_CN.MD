@@ -1,6 +1,8 @@
 # DeWm
 /djuːm/ DeWaterMark.  
 
+反向工作：[FSGM_DeWm](https://github.com/huzpsb/FGSM_Dewm)  
+
 受够了满图的水印？来，看这里。  
 使用AI（StableDiffusion）自动去除插画图片上的水印。  
 
