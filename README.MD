@@ -2,6 +2,9 @@
 /djuːm/ DeWaterMark.  
 [中文版](./README_CN.MD)  
 
+[DEMO](https://huzpsb-watermark-remover.hf.space/)  
+The demo is using an impaired model with worse quality but works without sd.  
+
 Tired of images covered in watermarks? Look no further!  
 This tool uses AI (StableDiffusion) to automatically remove watermarks from illustrations.  
 
